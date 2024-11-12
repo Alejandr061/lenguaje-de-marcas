@@ -38,6 +38,3 @@ Inclou informació sobre un escenari de joc amb els següents elements:
 - **foto**: Enllaç a la imatge.
 - **informacio**: Descripció general.
 - **historia_real**: Origen o inspiració real, opcional.
-
-## Resum de Relacions amb ID i IDREF
-- **operador** defineix un `id` únic (de tipus `ID`), utilitzat per les armes a través de l'atribut `operador_id` (`IDREF`) per establir una connexió directa entre l'operador i les seves armes.
